@@ -1,4 +1,4 @@
-# DeFi Wallet Credit Scoring
+# Wallet Credit Scoring
 
 This project builds a robust, rule-based credit scoring system for wallets interacting with the Aave V2 DeFi protocol. It uses historical on-chain transaction behavior to generate credit scores between **0 and 1000**, where higher scores reflect responsible, non-exploitative activity.
 
